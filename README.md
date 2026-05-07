@@ -105,9 +105,9 @@ I'm a B.Tech graduate who loves building things — whether that's **data pipeli
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayush-kushwah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800&rank_icon=github" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayush-kushwah&theme=tokyonight" height="160em"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-kushwah&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayush-kushwah&theme=tokyonight" height="160em"/>
 
 </div>
 
