@@ -105,15 +105,17 @@ I'm a B.Tech graduate who loves building things — whether that's **data pipeli
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayush-kushwah&theme=tokyonight" height="160em"/>
+<!-- Stats cards with https and working URLs -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayush-kushwah&theme=tokyonight" height="160em"/>
 &nbsp;
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayush-kushwah&theme=tokyonight" height="160em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayush-kushwah&theme=tokyonight" height="160em"/>
 
 </div>
 
+<!-- GitHub Streak (this is the one showing "Unknown" — fixed URL) -->
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Ayush-kushwah&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-kushwah&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
