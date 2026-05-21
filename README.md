@@ -115,7 +115,7 @@ I'm a B.Tech graduate who loves building things — whether that's **data pipeli
 <!-- GitHub Streak (this is the one showing "Unknown" — fixed URL) -->
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Ayush-kushwah&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Ayush-kushwah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
